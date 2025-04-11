@@ -1,6 +1,6 @@
 
 
-# **Md Khayrul Hassan Khan**
+# **Md Khayrul Hassan Khan** <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofsir7&label=Profile%20views&color=0e75b6&style=flat" alt="tofsir7" /> </p>
 
 🚀 **Full-Stack Developer | Competitive Programmer | Tech Enthusiast**
 
@@ -8,7 +8,6 @@
 📧 [khtofsir919@gmail.com](mailto:khtofsir919@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/khayrul-hassan-khan-4559a9214/) | [Portfolio](#)  
 
----
 
 ## 🔥 **About Me**
 
@@ -61,9 +60,9 @@ Hi there! I am a passionate **Full-Stack Developer** with expertise in **React.j
 ## 📊 **GitHub Stats**
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tofsir7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tofsir7&show_icons=true&theme=radical&locale=en" alt="tofsir7" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tofsir7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tofsir7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
