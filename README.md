@@ -41,7 +41,7 @@ Hi there! I am a passionate **Full-Stack Developer** with expertise in **React.j
 
 ## 📌 **Projects**
 
-### 🔹 **Gen-Z IT** *(Live | [GitHub](https://genzit.onrender.com/))*
+### 🔹 **Gen-Z IT** *(Live | [Gen-z IT](https://genzit.onrender.com/))*
 - Built a **web-based e-learning management system** using **React.js, Node.js, Express.js, and MongoDB**.
 - Integrated **secure authentication** and **real-time progress tracking** for students.
 - Deployed on **Render** for scalability and mobile responsiveness.
