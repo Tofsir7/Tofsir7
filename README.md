@@ -1,4 +1,3 @@
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
 # **Md Khayrul Hassan Khan**
 
